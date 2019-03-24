@@ -1,0 +1,5 @@
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\MyClassLibrary\obj\Debug\MyClassLibrary.pdb

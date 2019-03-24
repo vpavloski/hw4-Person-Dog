@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\obj\Debug\hw4-Person-Dog.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\obj\Debug\hw4-Person-Dog.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\bin\Debug\hw4-Person-Dog.exe.config
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\bin\Debug\hw4-Person-Dog.exe
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\bin\Debug\hw4-Person-Dog.pdb
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\bin\Debug\MyClassLibrary.dll
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\bin\Debug\MyClassLibrary.pdb
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\obj\Debug\hw4-Person-Dog.csproj.CopyComplete
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\obj\Debug\hw4-Person-Dog.exe
+C:\Users\David\source\repos\Homework1\hw4-Person-Dog\hw4-Person-Dog\obj\Debug\hw4-Person-Dog.pdb
